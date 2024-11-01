@@ -1,2 +1,2 @@
 print ("Hello Jenkins3")
-hello 
+print("hello")
